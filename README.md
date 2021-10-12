@@ -1,9 +1,9 @@
 # Travelling-website
-This is my first HTML & CSS project which I had made during my BCA study (2017-2020).
+<p>This is my first HTML & CSS project which I had made during my BCA study (2017-2020). This website is only for study purpose</p>
 
-<h1>This is a fully responsive travelling website.</h2>
+<h3>This is a fully responsive travelling website.</h3>
 
-Tools/ Technology I used
+<h4>Tools/ Technology I used</h4>
 HTML
 CSS
 VS code
