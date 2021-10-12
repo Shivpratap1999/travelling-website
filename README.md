@@ -9,4 +9,4 @@
 <li>CSS</li>
 <li>VS code</li></ul>
 
-Website is hosted here: <a>https://shivpandey.netlify.app/</a>
+Website is hosted here: <a href ="https://shivpandey.netlify.app/">Exlore website</a>
